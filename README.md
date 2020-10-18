@@ -1,3 +1,3 @@
 # 第4版　5章まで
 
-Rails-Tutorial2から第6版に移行
+6章からは第6版に移行したのでRails-Tutorial2にて
